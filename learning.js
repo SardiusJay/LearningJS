@@ -1,0 +1,1 @@
+var childWindow = window.open("http://recevier.com", "-blank");
